@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #fef7e2;
+  border-style: hidden;
+  border-radius: 5%;
+}
+
+.ulheader {
+  list-style: none;
+}
+
+.shop {
+  background-color: #ffdf7f;
+}
+
+.ourhoney {
+  background-color: #ffdf7f;
+}
+.tracehoney {
+  background-color: #ffdf7f;
+}
+.facilities {
+  background-color: #ffdf7f;
+}
+.contacts {
+  background-color: #ffdf7f;
+}
+
+@media screen and (max-width: 575px) {
+}
